@@ -1,2 +1,2 @@
 # Ukol1al-Kocko
-IT2
+final_kocko
